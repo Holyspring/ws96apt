@@ -22,5 +22,6 @@ C:\Users\Administrator\AppData\Local\GitHub\PortableGit_fed20eba68b3e238e49a47cd
 创建新的文档以后文档以后就可以保存提交了
 暂时还没研究出怎么提交，但是在右上角有两个按钮，
 都是VSC，一个向上箭头一个向下箭头，向上的就是提交了
+后面的就交给你自己了
 
 '''
